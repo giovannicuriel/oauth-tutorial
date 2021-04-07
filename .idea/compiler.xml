@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="OfficeApplication.app" target="11" />
+      <module name="OfficeApplication.app.main" target="11" />
+      <module name="OfficeApplication.app.test" target="11" />
+      <module name="OfficeStorage.app" target="11" />
+      <module name="OfficeStorage.app.main" target="11" />
+      <module name="OfficeStorage.app.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
